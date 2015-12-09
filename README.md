@@ -25,6 +25,8 @@ inherit_gem:
   gatemedia_rubocop: config/.rubocop.yml
 ```
 
+You could also put this file in your `$HOME` folder for a global use.
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/gatemedia/gatemedia_rubocop.
