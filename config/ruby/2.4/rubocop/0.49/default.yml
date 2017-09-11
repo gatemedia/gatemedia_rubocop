@@ -883,7 +883,7 @@ Style/GuardClause:
   MinBodyLength: 1
 
 Style/HashSyntax:
-  EnforcedStyle: ruby19
+  EnforcedStyle: hash_rockets
   SupportedStyles:
     # checks for 1.9 syntax (e.g. {a: 1}) for all symbol keys
     - ruby19
@@ -1157,7 +1157,7 @@ Style/StringLiterals:
   ConsistentQuotesInMultiline: false
 
 Style/StringLiteralsInInterpolation:
-  EnforcedStyle: single_quotes
+  EnforcedStyle: double_quotes
   SupportedStyles:
     - single_quotes
     - double_quotes
